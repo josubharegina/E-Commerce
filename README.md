@@ -141,6 +141,8 @@ The points closely align with the reference line, demonstrating the model's stro
 
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/a3491385-b87f-4342-90bd-176b1da4e658" />
+<img width="921" height="590" alt="image" src="https://github.com/user-attachments/assets/3711ae7a-64e3-47b4-a196-d9fb45845212" />
+
 
 
 ## Conclusion
