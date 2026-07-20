@@ -139,6 +139,10 @@ The points closely align with the reference line, demonstrating the model's stro
 
 ---
 
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/a3491385-b87f-4342-90bd-176b1da4e658" />
+
+
 ## Conclusion
 
 This project demonstrates how machine learning can be applied to e-commerce sales analytics for accurate revenue prediction. By combining data preprocessing, feature engineering, and the Gradient Boosting Regressor, the model achieved outstanding predictive performance. The project also highlights the importance of exploratory data analysis in understanding customer purchasing behavior and business trends.
